@@ -1,0 +1,16 @@
+.vscode
+.DS_Store
+
+app/backend/.env
+app/backend/srcs/node_modules
+
+app/database/.env
+
+app/frontend/.env
+app/frontend/srcs/node_modules
+
+app/pgadmin/.env
+
+app/reverse_proxy/conf/*.pem
+
+app/redis
