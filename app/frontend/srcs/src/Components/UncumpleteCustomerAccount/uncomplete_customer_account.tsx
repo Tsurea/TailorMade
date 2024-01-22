@@ -29,7 +29,7 @@ export function UncompleteCustomerAccount() {
                     <a href="/uncomplete_customer_account">Avatar</a>
                     <div id="customer_account_avatar_progress">
                         <img id="success" src="../../../assets/failure.png" alt="Avatar" />
-                        <p>Uncomplete 1%</p>
+                        <p>Uncomplete, 1%</p>
                     </div>
                 </ div>
                 <br/>

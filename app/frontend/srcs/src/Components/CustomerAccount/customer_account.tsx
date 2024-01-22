@@ -29,7 +29,7 @@ export function CustomerAccount() {
                     <a href="/uncomplete_customer_account">Avatar</a>
                     <div id="customer_account_avatar_progress">
                         <img id="success" src="../../../assets/success.png" alt="Avatar" />
-                        <p>Complete 100%</p>
+                        <p>Complete, 100%</p>
                     </div>
                 </ div>
                 <br/>
